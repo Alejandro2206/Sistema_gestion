@@ -1,0 +1,204 @@
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\bin\Debug\CRM 2.1.exe.config
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\bin\Debug\CRM 2.1.exe
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\bin\Debug\CRM 2.1.pdb
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\obj\Debug\CRM 2.1.csprojAssemblyReference.cache
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\obj\Debug\CRM 2.1.csproj.ResolveComReference.cache
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\obj\Debug\CRM_2._1.Bienvenida.resources
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\obj\Debug\CRM_2._1.Form1.resources
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\obj\Debug\CRM_2._1.Forms.Asesores.resources
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\obj\Debug\CRM_2._1.Forms.Clientes.resources
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\obj\Debug\CRM_2._1.Forms.Consultas.resources
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\obj\Debug\CRM_2._1.Forms.Pautas.resources
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\obj\Debug\CRM_2._1.Forms.Servicios.resources
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\obj\Debug\CRM_2._1.Forms.Usuarios.resources
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\obj\Debug\CRM_2._1.Login.resources
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\obj\Debug\CRM_2._1.Properties.Resources.resources
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\obj\Debug\CRM 2.1.csproj.GenerateResource.cache
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\obj\Debug\CRM 2.1.csproj.CoreCompileInputs.cache
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\obj\Debug\CRM 2.1.csproj.CopyComplete
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\obj\Debug\CRM 2.1.exe
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\obj\Debug\CRM 2.1.pdb
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\bin\Debug\itextsharp.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\bin\Debug\itextsharp.xml
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Vive Maravatio.exe.config
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Vive Maravatio.exe.manifest
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Vive Maravatio.application
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Vive Maravatio.exe
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Vive Maravatio.pdb
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\CircularProgressBar.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\itextsharp.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\WinFormAnimation.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\EnvDTE.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Shell.Design.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\stdole.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Threading.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Text.UI.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Package.LanguageService.14.0.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\EnvDTE80.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Language.Intellisense.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\VSLangProj.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\VSLangProj80.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Data.Framework.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Editor.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Text.Logic.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\VSLangProj2.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\CircularProgressBar.xml
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\itextsharp.xml
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Shell.Design.xml
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Threading.xml
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.xml
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Text.UI.xml
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Package.LanguageService.14.0.xml
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Language.Intellisense.xml
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Data.Framework.xml
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Editor.xml
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\Microsoft.VisualStudio.Text.Logic.xml
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\bin\Debug\es\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\obj\Debug\CRM 2.1.csproj.AssemblyReference.cache
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\obj\Debug\Vive Maravatio.exe.config
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\obj\Debug\CRM 2.1.csproj.ResolveComReference.cache
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\obj\Debug\CRM_2._1.Bienvenida.resources
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\obj\Debug\CRM_2._1.Form1.resources
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\obj\Debug\CRM_2._1.Forms.Asesores.resources
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\obj\Debug\CRM_2._1.Forms.Clientes.resources
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\obj\Debug\CRM_2._1.Forms.Consultas.resources
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\obj\Debug\CRM_2._1.Forms.Pautas.resources
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\obj\Debug\CRM_2._1.Forms.Servicios.resources
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\obj\Debug\CRM_2._1.Forms.Usuarios.resources
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\obj\Debug\CRM_2._1.Login.resources
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\obj\Debug\CRM_2._1.Properties.Resources.resources
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\obj\Debug\CRM 2.1.csproj.GenerateResource.cache
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\obj\Debug\RdlCompile.cache
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\obj\Debug\RdlCompile.compiled
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\obj\Debug\CRM 2.1.csproj.CoreCompileInputs.cache
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\obj\Debug\Vive Maravatio.TrustInfo.xml
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\obj\Debug\Vive Maravatio.exe.manifest
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\obj\Debug\Vive Maravatio.application
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\obj\Debug\CRM 2.1.csproj.CopyComplete
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\obj\Debug\Vive Maravatio.exe
+C:\Users\Alex Camacho\source\repos\CRM 2.1\CRM 2.1\CRM 2.1\obj\Debug\Vive Maravatio.pdb
+C:\Users\Alejandro Camacho\Documents\PROYECTOS\PROYECTO DE TSU VIVE MARAVATIO\CRM 2.1\CRM 2.1\CRM 2.1\obj\Debug\Vive Maravatio.exe
+C:\Users\Alejandro Camacho\Documents\PROYECTOS\PROYECTO DE TSU VIVE MARAVATIO\CRM 2.1\CRM 2.1\CRM 2.1\obj\Debug\Vive Maravatio.pdb
